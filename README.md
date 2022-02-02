@@ -19,6 +19,7 @@ To control Pac-Man, use the keyboard arrows. If you have a 60% Size Keyboard and
 
 # 🤝 Credits
 Rekto - Helped me a lot with GDI, thank you so much <3!  
+Energy - Teached me a lot and helped me with the code. Making more efficient, thank you so much <3  
 Nanochess - Made the Pac-Man Bootsector game. (Original link: https://github.com/nanochess/pillman)  
 Viznut - Made 2 bytebeats that i used in Transpire.exe  
 And thanks to whoever is reading this :3  
