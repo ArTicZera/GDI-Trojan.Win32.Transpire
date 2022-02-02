@@ -5,7 +5,7 @@ Transpire.exe is a trojan that has 20 payloads, incluiding GDI-Effects and Byteb
 When it's on the final payload, Transpire starts to use 100% of CPU, it's a proposital payload, but it's very cool.
 
 # 🚨 Important!!!
-You need to download "vcomp140d.dll" to Transpire works. If you want to run it use a Virtual Machine (I recommend <b>Windows XP</b>) or a Sandbox. Remembering that i'm not responsible for any damages to your machine. This malware shows flashing lights and loud sounds, so if you have a photosensitive disease like epilepsy, don't run this or watch any video about it for your security. And yes, the MBR is skidded, but try to ignore it, it's cool anyways...
+You need to download "vcomp140d.dll" and place it at the same folder as Transpire is in to it to make it works. If you want to run it use a Virtual Machine (I recommend <b>Windows XP</b>) or a Sandbox. Remembering that i'm not responsible for any damages to your machine. This malware shows flashing lights and loud sounds, so if you have a photosensitive disease like epilepsy, don't run this or watch any video about it for your security. And yes, the MBR is skidded, but try to ignore it, it's cool anyways...
 
 # 💊 What is the difference about TranspireDestructive and TranspireSafe?
 As the name says, TranspireDestructive is the version that includes the destruction. Overwriting the bootsector (MBR) to the Pac-Man Game. This version is recommended just for people that uses Virtual Machine or a Sandbox.    
